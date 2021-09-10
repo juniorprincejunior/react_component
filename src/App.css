@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.imge{
+  width: 500px;
+  text-align: center;
+}
+.image2{
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 10%;
+}
+.travis{
+  text-align: center;
+  margin-top: 1%;
+  color: blue;
+}
